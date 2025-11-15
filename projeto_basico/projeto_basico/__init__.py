@@ -1,0 +1,1 @@
+# Torna o projeto_basico como módulo para o python.
